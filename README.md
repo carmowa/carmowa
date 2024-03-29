@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS3, JAVA**
 
-- 👨‍💻 All of my projects are available at [https://github.com/carmowa](https://github.com/carmowa)
+- 👨‍💻 All of my projects are available at [GITHUB](https://github.com/carmowa)
 
 - 📫 How to reach me **victorcarmona1802@gmail.com**
 
