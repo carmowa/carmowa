@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Victor Alves Carmona</h1>
 <h3 align="center">Analysis and Systems Development Student at FIAP</h3>
 
-- 🔭 I’m currently working on **Futuro à Beira-Mar: Plataforma Digital**
+- 🔭 I’m currently working on **Porto Conserta: Plataforma Digital**
 
-- 🌱 I’m currently learning **HTML, CSS3, JAVA**
+- 🌱 I’m currently learning **SQL, CSS3, JAVA**
 
 - 👨‍💻 All of my projects are available at [GITHUB](https://github.com/carmowa)
 
